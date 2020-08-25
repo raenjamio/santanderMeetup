@@ -1,0 +1,9 @@
+package com.raenjamio.service;
+
+public class UsernameAlreadyUsedException extends RuntimeException {
+
+    public UsernameAlreadyUsedException() {
+        super("Login name already used!");
+    }
+
+}

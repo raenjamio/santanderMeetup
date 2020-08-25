@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20c87553-f7a4-47cd-b8a0-d0e8f655b0aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/MeetupKafkaResourceIT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/MeetupResourceIT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/NotificationResourceIT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="34" column="60" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/UserResourceIT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="39" column="60" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/TestUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/ArchTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/app/entities/admin/count-beer/beer.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/app/entities/admin/count-beer/beer.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/service/WeatherServiceIT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>meetup.service.find.not-found</find>
+      <find>MeetupKafkaConsumer</find>
+      <find>follow</find>
+      <find>UserSer</find>
+      <find>userService</find>
+      <find>entity.created</find>
+      <find>ResponseEntity.created</find>
+      <find>/temperatures</find>
+      <find>BigDecimal</find>
+      <find>findOneOrException</find>
+      <find>usersByLogin</find>
+      <find>USERS_BY_LOGIN_CACHE</find>
+      <find>FOLLOWS_BY_USER</find>
+      <find>kafka</find>
+      <find>EnableKafka</find>
+      <find>partitions</find>
+      <find>ConcurrentKafkaListenerContainerFactory</find>
+      <find>EnrolledKafkaConsumer</find>
+      <find>messageSource.getMessage(</find>
+      <find>messageSource.getMessage</find>
+      <find>parti</find>
+      <find>homepage</find>
+      <find>Por lo que hay consistencia eventual.</find>
+      <find>open.weather.url</find>
+      <find>PropertySource</find>
+      <find>validatingMongoEventListener|</find>
+      <find>@value</find>
+      <find>validator</find>
+      <find>@Value</find>
+      <find>count</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Long</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/useCase/assistans/resource/AssistansResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/useCase/beer/resource/BeerResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/domain/Follow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/service/mapper/EntityMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/service/MeetupService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/service/impl/MeetupServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/web/rest/FollowResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/service/FollowService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/repository/FollowRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/config/CacheConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/domain/Notification.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/service/KafkaListener.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/config/KafkaProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/useCase/FollowNotification/service/FollowNotification.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/service/NotificationsKafkaConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/MeetupApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/service/EnrolledKafkaConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/useCase/enrolled/service/EnrolledService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/i18n/messages_es.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/i18n/messages.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/service/MeetupKafkaConsumer.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/entities/admin/count-beer/beer.service.ts" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/entities/admin/count-beer/beer.component.ts" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/config/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/config/RestProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/raenjamio/config/DatabaseConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/config/ConfigurationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/core/home/home.vue" />
+        <option value="$PROJECT_DIR$/src/main/webapp/i18n/en/home.json" />
+        <option value="$PROJECT_DIR$/src/main/webapp/i18n/es/home.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/cucumber/CucumberContextConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/application-test.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/repository/CustomAuditEventRepositoryIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/security/DomainUserDetailsServiceIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/service/mapper/UserMapperIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/service/AuditEventServiceIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/service/MailServiceIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/service/UserServiceIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/errors/ExceptionTranslatorIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/AccountResourceIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/AuditResourceIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/ClientForwardControllerIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/FollowResourceIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/MeetupKafkaResourceIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/MeetupResourceIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/NotificationResourceIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/UserResourceIT.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/raenjamio/service/WeatherServiceIT.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="IDE" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-1" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="meetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b4c7e6cf-4dea-49c5-b64c-7f10a3787d80" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b4c7e6cf-4dea-49c5-b64c-7f10a3787d80" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/raenjamio/useCase/enrolled" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.raenjamio.service" />
+      <recent name="com.raenjamio.useCase.assistans.service" />
+      <recent name="com.raenjamio.useCase.assistans.resource" />
+      <recent name="com.raenjamio.useCase.follow.resource" />
+      <recent name="com.raenjamio.useCase.weather.resource" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/raenjamio/useCase/enrolled" />
+      <recent name="$PROJECT_DIR$/src/test/resources/wiremock/__files" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/raenjamio" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.NotificationResourceIT.getNotification">
+    <configuration name="ExceptionTranslatorIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meetup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raenjamio.web.rest.errors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.raenjamio.web.rest.errors" />
+      <option name="MAIN_CLASS_NAME" value="com.raenjamio.web.rest.errors.ExceptionTranslatorIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificationResourceIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meetup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raenjamio.web.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.raenjamio.web.rest" />
+      <option name="MAIN_CLASS_NAME" value="com.raenjamio.web.rest.NotificationResourceIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificationResourceIT.getNotification" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meetup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raenjamio.web.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.raenjamio.web.rest" />
+      <option name="MAIN_CLASS_NAME" value="com.raenjamio.web.rest.NotificationResourceIT" />
+      <option name="METHOD_NAME" value="getNotification" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherServiceIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meetup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raenjamio.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.raenjamio.service" />
+      <option name="MAIN_CLASS_NAME" value="com.raenjamio.service.WeatherServiceIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherServiceIT.shouldReturnWeather" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meetup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raenjamio.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.raenjamio.service" />
+      <option name="MAIN_CLASS_NAME" value="com.raenjamio.service.WeatherServiceIT" />
+      <option name="METHOD_NAME" value="shouldReturnWeather" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="local" type="Remote">
+      <module name="meetup" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.WeatherServiceIT" />
+      <item itemvalue="JUnit.WeatherServiceIT.shouldReturnWeather" />
+      <item itemvalue="JUnit.ExceptionTranslatorIT" />
+      <item itemvalue="JUnit.NotificationResourceIT" />
+      <item itemvalue="JUnit.NotificationResourceIT.getNotification" />
+      <item itemvalue="Remote.local" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NotificationResourceIT.getNotification" />
+        <item itemvalue="JUnit.NotificationResourceIT" />
+        <item itemvalue="JUnit.ExceptionTranslatorIT" />
+        <item itemvalue="JUnit.WeatherServiceIT" />
+        <item itemvalue="JUnit.WeatherServiceIT.shouldReturnWeather" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desarrollo/scala/MOC/akka-slick-vs-http4s-doobie-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desarrollo/scala/MOC/codely/cqrs-ddd-scala-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desarrollo/scala/MOC/codely/scala-ddd-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desarrollo/scala/MOC/codely/scala-intro-examples" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desarrollo/scala/MOC/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desarrollo/scala/MOC/funsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desarrollo/scala/MOC/play-samples-play-scala-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desarrollo/scala/MOC/play-samples-play-scala-rest-api-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desarrollo/scala/MOC/play-sb-admin2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desarrollo/scala/MOC/scala-play-vue-seed" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20c87553-f7a4-47cd-b8a0-d0e8f655b0aa" name="Default Changelist" comment="" />
+      <created>1597801326994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597801326994</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add notifications, confirm assistants">
+      <created>1597896762677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597896762678</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add kafka consumer for assistants confirmed">
+      <created>1597967581465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597967581465</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add enrolled, checkin">
+      <created>1597982954648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597982954648</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add enrolled, , test">
+      <created>1598049218208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598049218208</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add enrolled, , test">
+      <created>1598066852957</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598066852957</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor temperature - calculateBeers">
+      <created>1598123971343</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598123971343</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactor temperature - calculateBeers">
+      <created>1598124128948</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598124128948</updated>
+    </task>
+    <task id="LOCAL-00008" summary="comments">
+      <created>1598124487256</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598124487256</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add cache follow, etc">
+      <created>1598153255811</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598153255811</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add follow notification">
+      <created>1598209692432</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598209692432</updated>
+    </task>
+    <task id="LOCAL-00011" summary="complete readme etc">
+      <created>1598221625283</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598221625283</updated>
+    </task>
+    <task id="LOCAL-00012" summary="complete readme etc">
+      <created>1598221797914</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598221797914</updated>
+    </task>
+    <task id="LOCAL-00013" summary="complete readme etc">
+      <created>1598222625832</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1598222625832</updated>
+    </task>
+    <task id="LOCAL-00014" summary="complete readme etc">
+      <created>1598222760125</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1598222760125</updated>
+    </task>
+    <task id="LOCAL-00015" summary="delete docx">
+      <created>1598307000198</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1598307000198</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix test">
+      <created>1598312624842</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1598312624842</updated>
+    </task>
+    <task id="LOCAL-00017" summary="delete images by repo space">
+      <created>1598312826596</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1598312826596</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="NotificationResourceIT_getNotification - 2020.08.23 at 20h 53m 21s.xml">
+      <configuration name="NotificationResourceIT.getNotification" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotificationResourceIT_getNotification - 2020.08.23 at 21h 31m 49s.xml">
+      <configuration name="NotificationResourceIT.getNotification" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotificationResourceIT_getNotification - 2020.08.23 at 21h 35m 17s.xml">
+      <configuration name="NotificationResourceIT.getNotification" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotificationResourceIT_getNotification - 2020.08.23 at 21h 38m 01s.xml">
+      <configuration name="NotificationResourceIT.getNotification" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotificationResourceIT_getNotification - 2020.08.23 at 21h 39m 18s.xml">
+      <configuration name="NotificationResourceIT.getNotification" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotificationResourceIT_getNotification - 2020.08.23 at 21h 41m 34s.xml">
+      <configuration name="NotificationResourceIT.getNotification" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotificationResourceIT_getNotification - 2020.08.23 at 21h 44m 33s.xml">
+      <configuration name="NotificationResourceIT.getNotification" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotificationResourceIT_getNotification - 2020.08.23 at 21h 45m 39s.xml">
+      <configuration name="NotificationResourceIT.getNotification" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotificationResourceIT_getNotification - 2020.08.23 at 21h 49m 37s.xml">
+      <configuration name="NotificationResourceIT.getNotification" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotificationResourceIT_getNotification - 2020.08.23 at 21h 55m 30s.xml">
+      <configuration name="NotificationResourceIT.getNotification" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27651516" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294702" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45033112" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.55463576" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.69772726" visible="true" weight="0.5231788" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30227274" side_tool="true" visible="true" weight="0.5231788" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.51986754" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" x="0" y="0" width="291" height="528" id="Documentation" order="7" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add notifications, confirm assistants" />
+    <MESSAGE value="add kafka consumer for assistants confirmed" />
+    <MESSAGE value="add enrolled, checkin" />
+    <MESSAGE value="add enrolled, , test" />
+    <MESSAGE value="refactor temperature - calculateBeers" />
+    <MESSAGE value="comments" />
+    <MESSAGE value="add cache follow, etc" />
+    <MESSAGE value="add follow notification" />
+    <MESSAGE value="complete readme etc" />
+    <MESSAGE value="delete docx" />
+    <MESSAGE value="fix test" />
+    <MESSAGE value="delete images by repo space" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete images by repo space" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/exceptions/CustomRestExceptionHandler.java</url>
+          <line>200</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/exceptions/CustomRestExceptionHandler.java</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/exceptions/CustomRestExceptionHandler.java</url>
+          <line>167</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/exceptions/CustomRestExceptionHandler.java</url>
+          <line>150</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/exceptions/CustomRestExceptionHandler.java</url>
+          <line>140</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/exceptions/CustomRestExceptionHandler.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/exceptions/CustomRestExceptionHandler.java</url>
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/exceptions/CustomRestExceptionHandler.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/exceptions/CustomRestExceptionHandler.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/exceptions/CustomRestExceptionHandler.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/exceptions/CustomRestExceptionHandler.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/exceptions/CustomRestExceptionHandler.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/raenjamio/service/BeerServiceTest.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/raenjamio/service/BeerServiceTest.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/raenjamio/service/WeatherServiceIT.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/useCase/assistans/resource/AssistansResource.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/raenjamio/service/TemperatureTest.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/raenjamio/service/TemperatureTest.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/service/RestClient.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/useCase/weather/service/WeatherService.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/service/FollowService.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/web/rest/FollowResource.java</url>
+          <line>131</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/service/EnrolledKafkaConsumer.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/service/EnrolledKafkaConsumer.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/service/impl/MeetupServiceImpl.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/raenjamio/service/WeatherServiceIT.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/NotificationResourceIT.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/config/RestBeans.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/config/RestProperties.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/config/RestProperties.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/raenjamio/config/ConfigurationTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/config/DatabaseConfiguration.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/raenjamio/config/DatabaseConfiguration.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/NotificationResourceIT.java</url>
+          <line>68</line>
+          <properties field="validator" class="com.raenjamio.web.rest.NotificationResourceIT" />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>new LocalValidatorFactoryBean()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>restProperties()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>HttpStatus.OK.value()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>HttpStatus.OK.ordinal</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>HttpStatus.OK</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ttpStatus.OK</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>response.getStatusCode().value()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>kafkaConsumer.position()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>kafkaConsumer.partitionsFor(topic)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/raenjamio/service/MeetupService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/raenjamio/service/EnrolledKafkaConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/raenjamio/service/impl/MeetupServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/raenjamio/service/RestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="33" column="88" selection-start-line="33" selection-start-column="88" selection-end-line="33" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/config/WebConfigurerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/config/WebConfigurerTestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$M2_REPO$/repository/io/github/jhipster/jhipster-framework/3.0.6/jhipster-framework-3.0.6-sources.jar!/io/github/jhipster/config/JHipsterConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$M2_REPO$/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.9.RELEASE/spring-boot-autoconfigure-2.1.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/mongo/MongoAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/raenjamio/web/rest/MeetupResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/raenjamio/config/LoggingConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="149" column="53" selection-start-line="149" selection-start-column="53" selection-end-line="149" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/raenjamio/config/ApplicationProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/raenjamio/MeetupApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$M2_REPO$/repository/org/springframework/spring-beans/5.1.10.RELEASE/spring-beans-5.1.10.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$M2_REPO$/repository/org/springframework/data/spring-data-mongodb/2.1.11.RELEASE/spring-data-mongodb-2.1.11.RELEASE.jar!/org/springframework/data/mongodb/core/mapping/event/ValidatingMongoEventListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$M2_REPO$/repository/org/springframework/spring-context/5.1.10.RELEASE/spring-context-5.1.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-549">
+          <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$M2_REPO$/repository/org/springframework/spring-core/5.1.10.RELEASE/spring-core-5.1.10.RELEASE-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="243" selection-start-line="243" selection-end-line="243" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/raenjamio/config/RestProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/raenjamio/config/RestBeans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#375#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$M2_REPO$/repository/org/springframework/spring-context/5.1.10.RELEASE/spring-context-5.1.10.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassEnhancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="362" selection-start-line="362" selection-end-line="362" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/raenjamio/config/DatabaseConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <folding>
+            <element signature="e#1898#1899#0" expanded="true" />
+            <element signature="e#1952#1953#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/config/ConfigurationTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/core/home/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="85" selection-start-line="6" selection-start-column="85" selection-end-line="6" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/i18n/en/home.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/i18n/es/home.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/application-test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/cucumber/CucumberContextConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/repository/CustomAuditEventRepositoryIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/security/DomainUserDetailsServiceIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/service/mapper/UserMapperIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+          <folding>
+            <element signature="e#4204#4205#0" expanded="true" />
+            <element signature="e#4271#4272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/service/BeerServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/service/AuditEventServiceIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/service/MailServiceIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="47" column="41" lean-forward="true" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/service/UserServiceIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/errors/ExceptionTranslatorIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/AccountResourceIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="50" column="60" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/AuditResourceIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="34" column="60" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/ClientForwardControllerIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/FollowResourceIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="34" column="60" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/MeetupKafkaResourceIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/MeetupResourceIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/NotificationResourceIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="34" column="60" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/UserResourceIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="39" column="60" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/web/rest/TestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/ArchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/entities/admin/count-beer/beer.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/entities/admin/count-beer/beer.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/content/images/jhipster_family_member_0.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/raenjamio/service/WeatherServiceIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
